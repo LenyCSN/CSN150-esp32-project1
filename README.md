@@ -16,6 +16,10 @@ alt="CSN150-esp32-project1" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/LvhhCDjHnGk&t/0.jpg" 
 alt="video2_repository" width="240" height="180" border="10" /></a>
 
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/LvhhCDjHnGk&t/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=LvhhCDjHnGk&t)
+
 ### Steps Followed:
 1. 
 
