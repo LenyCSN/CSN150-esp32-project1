@@ -40,5 +40,6 @@ Youtube Video: https://www.youtube.com/watch?v=LvhhCDjHnGk&t
 ---
 
 ### Problems Encoutered:
-1. 
+1. This one was difficult and time consuming to discover, but it turned out something had happened to my esp32 driver in COM4 at some point. Somehow, my 2014 CH341 version driver had disconnected itself requiring me to manually select the 2014 driver in device manager because, somehow, all drivers since 2015 somehow aren't working for everyone. The errors I would get didn't do a very good job of letting me know a physical connection was the problem and online resources regarding the issue was all over the place.
 
+Solution: Double check your drivers every time. Run a basic Arduino IDE Program to ensure your physical connection is operational and isn't going to be a problem at BAUD rate 115200.
