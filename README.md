@@ -9,9 +9,11 @@
 2. [Expressif ESP32 flashing tool link](https://www.espressif.com/en/support/download/other-tools)
 
 3. "How to Make a WiFi Repeater using ESP32 NodeMCU | WiFi Router Range Extender esp32 esp8266 | 2022"
+
 Youtube Video: https://www.youtube.com/watch?v=BP1Dz66faf4
 
 4. "ESP32 as a Wifi Range Extender" (similar to the video above but uses the updated expressive flash tool)
+
 Youtube Video: https://www.youtube.com/watch?v=LvhhCDjHnGk&t
 
 
