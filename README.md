@@ -14,7 +14,7 @@ alt="CSN150-esp32-project1" width="240" height="180" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LvhhCDjHnGk&t
 " target="_blank"><img src="http://img.youtube.com/vi/LvhhCDjHnGk&t/0.jpg" 
-alt="CSN150-esp32-project1" width="240" height="180" border="10" /></a>
+alt="video2_repository" width="240" height="180" border="10" /></a>
 
 ### Steps Followed:
 1. 
