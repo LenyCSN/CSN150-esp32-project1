@@ -10,6 +10,8 @@ https://github.com/martin-ger/esp32_nat_router
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BP1Dz66faf4&t=46s
 " target="_blank"><img src="http://img.youtube.com/vi/BP1Dz66faf4&t=46s/0.jpg" 
-alt="(https://img.youtube.com/vi/BP1Dz66faf4/0.jpg)" width="240" height="180" border="10" /></a>
+alt="(CSN150 Lab: ESP32-NAT_Router_LC)[https://img.youtube.com/vi/BP1Dz66faf4/0.jpg]" width="240" height="180" border="10" /></a>
+
+
 ---
 
