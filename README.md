@@ -8,6 +8,6 @@ https://github.com/martin-ger/esp32_nat_router
 
 [Expressif ESP32 flashing tool link](https://www.espressif.com/en/support/download/other-tools)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BP1Dz66faf4/0.jpg)](http://www.youtube.com/watch?v=BP1Dz66faf4)
+[![CSN150-esp32-project1](http://img.youtube.com/vi/BP1Dz66faf4/0.jpg)](http://www.youtube.com/watch?v=BP1Dz66faf4)
 ---
 
